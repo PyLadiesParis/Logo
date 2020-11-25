@@ -23,10 +23,9 @@ TODO: add PR? add list with ideas??
 
 Here are some ideas from other locations:
 
-<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_amsterdam_logo.jpeg" width="30">
-<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_australia_logo.png" width="30">
-<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_berlin_logo.png" width="30">
-<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_brasil_logo.png" width="30">
-<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_pdx_logo.png" width="30">
-<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_taiwan_logo.png" width="30">
-<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_poland_logo.png" width="30">
+<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_amsterdam_logo.jpeg" width="40"><img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_australia_logo.png" width="40">
+<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_berlin_logo.png" width="40">
+<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_brasil_logo.png" width="40">
+<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_pdx_logo.png" width="40">
+<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_taiwan_logo.png" width="40">
+<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_poland_logo.png" width="40">
