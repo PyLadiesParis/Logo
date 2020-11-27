@@ -2,26 +2,31 @@
 
 ## Let's have some fun with creating logo for Pyladies Paris !
 
+We are missing Pyladies logo so let's create one together :-D
+
+Want to get involved? You can either:
+1. send us your ideas on our slack channel:, or
+2. make a pull request here with your very own desing (in the end we will make a vote for which design to keep)
+
 Global Pyladies have official logos:
 
 1. geek logo:
 <img src="https://github.com/pyladies/pyladies-assets/blob/master/geek/png/pylady_geek_full_standard.png" width="200">
 
 2. logo: 
-
 <img src="https://github.com/pyladies/pyladies-assets/blob/master/wordmark/png/pyladies_wordmark_standard_black.png" width="200">
 
-Based on either of those logos (or both) we would like to create Pyladies Paris logos.
-If you have ideas please share them with us!
+You can use either (or both) of those logos as your base
 
 Rules:
 
 - you can change the color or add any extras
 - you cannot change the size of the logo
 
-TODO: add PR? add list with ideas??
+you might also refer to: [global Pyladies repository](https://github.com/pyladies/pyladies-assets)
 
-Here are some ideas from other locations:
+
+Here are some ideas from other locations to get you started:
 
 <img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_amsterdam_logo.jpeg" width="60"><img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_australia_logo.png" width="60">
 <img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_salvador_logo.png" width="60">
