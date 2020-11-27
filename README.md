@@ -23,9 +23,13 @@ TODO: add PR? add list with ideas??
 
 Here are some ideas from other locations:
 
-<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_amsterdam_logo.jpeg" width="40"><img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_australia_logo.png" width="40">
-<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_berlin_logo.png" width="40">
-<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_brasil_logo.png" width="40">
-<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_pdx_logo.png" width="40">
-<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_taiwan_logo.png" width="40">
-<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_poland_logo.png" width="40">
+<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_amsterdam_logo.jpeg" width="60"><img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_australia_logo.png" width="60">
+<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_salvador_logo.png" width="60">
+<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/LA/pyladies_la_logo.png" width="60">
+<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_berlin_logo.png" width="60">
+<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/DC/pyladies_dc_logo.png" width="60">
+<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_brasil_logo.png" width="60">
+<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_pdx_logo.png" width="60">
+<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_taiwan_logo.png" width="60">
+<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_poland_logo.png" width="60">
+<img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/Recife-BR/logo_wordmark_pyladies_recife.png" width="60">
