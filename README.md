@@ -2,7 +2,7 @@
 
 ## Let's have some fun with creating logo for Pyladies Paris !
 
-We are missing Pyladies logo so let's create one together :-D
+We are missing Pyladies Paris logo so let's create one together :-D
 
 Want to get involved? You can either:
 1. send us your ideas on our slack channel:, or
