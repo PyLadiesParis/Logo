@@ -1,4 +1,4 @@
-# Pyladies Paris Logo
+# PyLadies Paris Logo
 
 ## Let's have some fun with creating a logo for Pyladies Paris !
 
