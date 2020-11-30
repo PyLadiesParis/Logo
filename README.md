@@ -22,10 +22,15 @@ Rules:
 
 - you can change the color or add any extras
 - you cannot change the size of the logo
+- you can ask for anyone's opinion on a design or colour on Slack
+- you can share as many designs as you'd like
+- make sure that your logo is not offensive
 
 you might also refer to: [global Pyladies repository](https://github.com/pyladies/pyladies-assets)
 
-To join the Slack group, go to https://slackin.pyladies.com/ and then join the channel #city-paris.
+To join the Slack group, go to https://slackin.pyladies.com/ and then join the channel #city-paris and say hi!
+
+We will vote for our favorite design. The design with the most votes will be used by the PyLadies Paris community as the new logo and the creator will be credited on the PyLadies.com website as well as on our social media channels.
 
 Here are some ideas from other locations to get you started:
 
