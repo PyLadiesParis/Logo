@@ -1,14 +1,14 @@
 # PyLadies Paris Logo
 
-## Let's have some fun with creating a logo for Pyladies Paris !
+## Let's have some fun with creating a logo for PyLadies Paris !
 
-we don't have a Pyladies Paris logo yet so let's create one together :-D
+we don't have a PyLadies Paris logo yet so let's create one together :-D
 
 Want to get involved? You can either:
 1. send us your ideas on our slack channel:, or
 2. make a pull request here with your very own desing (in the end we will make a vote for which design to keep)
 
-Global Pyladies have official logos:
+Global PyLadies have official logos:
 
 1. geek logo:
 <img src="https://github.com/pyladies/pyladies-assets/blob/master/geek/png/pylady_geek_full_standard.png" width="200">
@@ -26,7 +26,7 @@ Rules:
 - you can share as many designs as you'd like
 - make sure that your logo is not offensive
 
-you might also refer to: [global Pyladies repository](https://github.com/pyladies/pyladies-assets)
+you might also refer to: [global PyLadies repository](https://github.com/pyladies/pyladies-assets)
 
 To join the Slack group, go to https://slackin.pyladies.com/ and then join the channel #city-paris and say hi!
 
