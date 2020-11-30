@@ -1,8 +1,8 @@
 # Pyladies Paris Logo
 
-## Let's have some fun with creating logo for Pyladies Paris !
+## Let's have some fun with creating a logo for Pyladies Paris !
 
-We are missing Pyladies Paris logo so let's create one together :-D
+we don't have a Pyladies Paris logo yet so let's create one together :-D
 
 Want to get involved? You can either:
 1. send us your ideas on our slack channel:, or
@@ -25,6 +25,7 @@ Rules:
 
 you might also refer to: [global Pyladies repository](https://github.com/pyladies/pyladies-assets)
 
+To join the Slack group, go to https://slackin.pyladies.com/ and then join the channel #city-paris.
 
 Here are some ideas from other locations to get you started:
 
