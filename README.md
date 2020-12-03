@@ -1,3 +1,6 @@
+[Allez au texte en francais](#texte-en-français)
+
+
 # PyLadies Paris Logo
 
 Lire en français plus bas / See French version lower down the page.
@@ -50,7 +53,7 @@ To join the Slack group, go to https://slackin.pyladies.com/ and then join the c
 First of all, ANY contribution that in coherence with our code of conduct will make us very happy! A contribution can be an idea, an opinion (shared nicely) or a design creation. We'd love for this challenge to give life to out brand new logo though. So to make that happen, we will vote for our favorite design. The design with the most votes will be used by the PyLadies Paris community as the new logo and the creator will be credited on the PyLadies.com website as well as on our social media channels.
 
 ---
-French version / Texte en français :
+# Texte en français
 
 # Logo PyLadies Paris
 
