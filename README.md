@@ -57,7 +57,7 @@ First of all, ANY contribution that in coherence with our code of conduct will m
 
 # Logo PyLadies Paris
 
-## Amiusons-nous à créer ensemble le nouveau logo de PyLadies Paris !
+## Amusons-nous à créer ensemble le nouveau logo de PyLadies Paris !
 
 PyLadies Paris n'a pas encore de logo : créons-en un ensemble :-D
 
@@ -101,6 +101,6 @@ Pour avoir un peu d'inspiration, regardez c-dessous les logos des PyLadies dans 
 Ceci dit, n'hésitez pas à proposer quelque chose de vraiment différent.
 
 ## Participer et voter
-Ca se âssera sur Slack. Rendez-vous sur https://slackin.pyladies.com et faites nous un petit coucou sur la chaîne #city-paris !
+Ca se passera sur Slack. Rendez-vous sur https://slackin.pyladies.com et faites nous un petit coucou sur la chaîne #city-paris !
 
 Nous serrons heureux.ses de voir TOUTES vos contributions quelles qu'elles soient, tant qu'elles sont en cohérence avec notre code of conduct ! Qu'est-ce qu'une ocntribution ? Il peut s'agit d'une idée, une opinion (partagée gentiement) ou un design de votre création. Nous aimerions beaucoup que notre nouveau logo naisse de cette initiative, et c'est pourquoi nous allons votre pour choisir le logo de la communauté. Le design qui remportera le plus de votes sera utilisé en tant que logo de PyLadies Paris et le nouveau logo et le créateur seront crédits sur le site web de PyLAdies et sur les réseaux sociaux.
