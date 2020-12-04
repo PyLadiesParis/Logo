@@ -44,6 +44,7 @@ Here are some ideas from other locations to get you started:
 <img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_taiwan_logo.png" width="60">
 <img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_poland_logo.png" width="60">
 <img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/Recife-BR/logo_wordmark_pyladies_recife.png" width="60">
+<img src="https://pbs.twimg.com/profile_images/1247876648847806465/hGUaaPTW_400x400.jpg width="60">
 
 That being said, feel free to suggest something very unique.
 
@@ -97,7 +98,8 @@ Pour avoir un peu d'inspiration, regardez c-dessous les logos des PyLadies dans 
 <img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_taiwan_logo.png" width="60">
 <img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_poland_logo.png" width="60">
 <img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/Recife-BR/logo_wordmark_pyladies_recife.png" width="60">
-
+<img src="https://pbs.twimg.com/profile_images/1247876648847806465/hGUaaPTW_400x400.jpg width="60">
+                                                                                                  
 Ceci dit, n'hésitez pas à proposer quelque chose de vraiment différent.
 
 ## Participer et voter
