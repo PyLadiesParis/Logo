@@ -34,6 +34,7 @@ You can use either (or both) of those logos as your base
 you might also refer to: [global PyLadies repository](https://github.com/pyladies/pyladies-assets)
 
 Here are some ideas from other locations to get you started:
+
 <img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_amsterdam_logo.jpeg" width="60"><img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_australia_logo.png" width="60">
 <img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/pyladies_salvador_logo.png" width="60">
 <img src="https://github.com/pyladies/pyladies-assets/blob/master/locations/LA/pyladies_la_logo.png" width="60">
